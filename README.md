@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nausheenzubair&show_icons=true&locale=en" alt="nausheenzubair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nausheenzubair&" alt="nausheenzubair" /></p>
+
